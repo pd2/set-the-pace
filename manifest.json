@@ -1,0 +1,16 @@
+{
+  "name": "Set the PACE",
+  "short_name": "SetPACE",
+  "start_url": "https://set-the-pace.glitch.me/",
+  "icons": [
+    {
+      "src": "https://cdn.glitch.global/34ea32e3-6f89-4767-93ea-ea0e08fd297f/Green_footprint_icon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#4b7730",
+  "background_color": "#4b7730",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
