@@ -21,7 +21,7 @@ let ways;
 
 async function get_ways_to_reduce_footprint() {
   
-  let responses = await fetch('/footprint.txt');
+  let responses = await fetch('footprint.txt');
   
   ways = await responses.json();
   
