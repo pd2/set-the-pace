@@ -1,0 +1,236 @@
+[
+  {
+    "text": "eating less meat",
+    "lead": "go vegetarian",
+    "category": "Food",
+    "points": "700"
+  },
+  {
+    "text": "reducing use of dairy products",
+    "lead": "Good for the cattle",
+    "category": "Food",
+    "points": "200"
+ },
+  {
+    "text": "choosing local food",
+    "lead": "check the label ",
+    "category": "Food",
+    "points": "200"
+  },
+  {
+    "text": "using microwave",
+    "lead": "slow cooker or induction hob or ",
+    "category": "Food",
+    "points": "200"
+  },
+  {
+    "text": "checking for the good fish guide",
+    "lead": "blue tick",
+    "category": "Food",
+    "points": "200"
+  },
+  {
+    "text": "growing fruits and vegetables",
+    "lead": "from your garden",
+    "category": "Food",
+    "points": "200"
+  },
+  {
+    "text": "choosing to walk or cycle",
+    "lead": "daily commute",
+    "category": "Travel",
+    "points": "300"
+  },
+  {
+    "text": "using bus, or train",
+    "lead": "car pooling or public ..",
+    "category": "Travel",
+    "points": "400"
+  },
+  {
+    "text": "changing to a plugin hybrid car",
+    "lead": "your vehicle",
+    "category": "Travel",
+    "points": "600"
+  },
+  {
+    "text": "choosing not to have a car",
+    "lead": "changing to a full electric vehicle or ",
+    "category": "Travel",
+    "points": "1400"
+  },
+  {
+    "text": "limiting to one short-haul return flight",
+    "lead": "your annual vacation",
+    "category": "Travel",
+    "points": "400"
+  },
+  {
+    "text": "limiting to one long-haul return flight",
+    "lead": "your big vacation every 5-7 years",
+    "category": "Travel",
+    "points": "800"
+  },
+  {
+    "text": "swithcing to a green energy provider",
+    "lead": "use renewable energy",
+    "category": "Energy",
+    "points": "800"
+  },
+  {
+    "text": "using LED light bulbs",
+    "lead": "bright rooms",
+    "category": "Energy",
+    "points": "200"
+  },
+  {
+    "text": "having insulation in the roof",
+    "lead": "at least 25 cm of ",
+    "category": "Energy",
+    "points": "400"
+  },
+  {
+    "text": "having good wall insulation and double-glazed windows",
+    "lead": "warm home",
+    "category": "Energy",
+    "points": "400"
+  },
+  {
+    "text": "lowering room thermostat temperature",
+    "lead": "set to 20 C or less",
+    "category": "Energy",
+    "points": "200"
+  },
+  {
+    "text": "installing solar panels",
+    "lead": "Harness the sun's power",
+    "category": "Energy",
+    "points": "800"
+  },
+  {
+    "text": "installing a heat pump",
+    "lead": "an energy efficient home",
+    "category": "Energy",
+    "points": "500"
+  },
+  {
+    "text": "running dishwater only when full",
+    "lead": "Plongeur",
+    "category": "Energy",
+    "points": "100"
+  },
+  {
+    "text": "air-drying most washing",
+    "lead": "your laundry",
+    "category": "Energy",
+    "points": "100"
+  },
+  {
+    "text": "planting 10 trees per year",
+    "lead": "your own forest",
+    "category": "Garden",
+    "points": "100"
+  },
+  {
+    "text": "using peat free compost",
+    "lead": "feed the plants",
+    "category": "Garden",
+    "points": "100"
+  },
+  {
+    "text": "selecting drought tolerant plants",
+    "lead": "choose the resilient",
+    "category": "Garden",
+    "points": "100"
+  },
+  {
+    "text": "taking showers not baths",
+    "lead": "save water",
+    "category": "Water",
+    "points": "100"
+  },
+  {
+    "text": "install dual flush loos",
+    "lead": "down the toilet",
+    "category": "Water",
+    "points": "100"
+  },
+  {
+    "text": "installing water butt",
+    "lead": "rain water harvesting",
+    "category": "Water",
+    "points": "100"
+  },
+  {
+    "text": "buying some second hand clothes",
+    "lead": "vintage",
+    "category": "Fashion",
+    "points": "100"
+  },
+  {
+    "text": "checking labels for sustainable fabric",
+    "lead": "avoid fast fashion",
+    "category": "Fashion",
+    "points": "200"
+  },
+  {
+    "text": "recycling plastic bottles and cans",
+    "lead": "reduce, reuse, and ",
+    "category": "Lifestyle",
+    "points": "100"
+  },
+  {
+    "text": "recycling food waste",
+    "lead": "home compost",
+    "category": "Lifestyle",
+    "points": "100"
+  },
+  {
+    "text": "recycling paper",
+    "lead": "well read, well reused",
+    "category": "Lifestyle",
+    "points": "100"
+  },
+  {
+    "text": "recycling glass",
+    "lead": "cheers",
+    "category": "Lifestyle",
+    "points": "100"
+  },
+  {
+    "text": "reducing our total waste",
+    "lead": "Help Wall-E",
+    "category": "Lifestyle",
+    "points": "100"
+  },
+  {
+    "text": "using own compost bin",
+    "lead": "fertilise your garden",
+    "category": "Lifestyle",
+    "points": "100"
+  },
+  {
+    "text": "volunteering in our community",
+    "lead": "join the local team",
+    "category": "Lifestyle",
+    "points": "100"
+  },
+  {
+    "text": "taking regular exercise",
+    "lead": "physical activity",
+    "category": "Lifestyle",
+    "points": "100"
+  },
+  {
+    "text": "making ethical investments",
+    "lead": "follow the money trail",
+    "category": "Lifestyle",
+    "points": "100"
+  },
+  {
+    "text": "choosing an ethical bank",
+    "lead": "who do you give your money?",
+    "category": "Lifestyle",
+    "points": "100"
+  }
+]
