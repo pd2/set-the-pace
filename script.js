@@ -343,7 +343,7 @@ var copyText;
 
 function ShareIt() {
   
-  let linkURL = "https://set-the-pace.glitch.me";
+  let linkURL = "https://pd2.github.io/set-the-pace/";
   
   copyText = `#SetThePACE I learnt 2 different ways out of 40 ways to reduce my carbon footprint in ${Math.round(elapsedTime/1000)} sec at ${linkURL}`;
   
