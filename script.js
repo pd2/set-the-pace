@@ -108,13 +108,13 @@ let Guess = [], cur_guess, cur_ans, line_len;
 let sec_index, sec_cur_ans, sec_cur_guess, sec_wordQueue, sec_quoteText, sec_leadText, sec_line_len;
 let num_tries, is_random;
 
-let lastPlayedTs;
+let pace_lastPlayedTs;
 
 function startGame() {
   
   var today = new Date();
   
-  if ( Na(new Date(lastPlayedTs), today) < 1) {
+  if ( Na(new Date(pace_lastPlayedTs), today) < 1) {
      alert("Play a new puzzle tomorrow!")
      return;
   }
@@ -295,7 +295,7 @@ function gameOver() {
   sec_dropZone.style.display = "flex";
   words.style.display = "revert";
 
-  lastPlayedTs = new Date();
+  pace_lastPlayedTs = new Date();
 
   elapsedTime = new Date().getTime() - startTime;
   // let time_taken = (elapsedTime/1000);
@@ -379,12 +379,12 @@ function get_history() {
   const lpts = localStorage.getItem('lpts') || noItemsFound_lastPlayedTs;
   
   index = JSON.parse(ka);
-  lastPlayedTs = JSON.parse(lpts);
+  pace_lastPlayedTs = JSON.parse(lpts);
 }
 
 function save_history() {
   const ka = JSON.stringify(index);
-  const lpts = JSON.stringify(lastPlayedTs);
+  const lpts = JSON.stringify(pace_lastPlayedTs);
   localStorage.setItem('index', ka);
   localStorage.setItem('lpts', lpts);
 }
