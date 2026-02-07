@@ -322,7 +322,7 @@ function gameOver() {
   check.style.display = "none";
   share.style.display = "block";
   
-  image.innerHTML = `<img class="img" draggable="false" src="https://cdn.glitch.global/34ea32e3-6f89-4767-93ea-ea0e08fd297f/green-footprints.jpg">`
+  image.innerHTML = `<img class="img" draggable="false" src="green-footprints.jpg">`
 
   document.body.className = "image";
   // document.body.className = "winner";
