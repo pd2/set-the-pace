@@ -376,17 +376,17 @@ function Na(e, a) {
 function get_history() {
   const noItemsFound_ad = 0, noItemsFound_ku = -1, noItemsFound_lastPlayedTs = 0;
   const ka = localStorage.getItem('index') || noItemsFound_ku;
-  const lpts = localStorage.getItem('lpts') || noItemsFound_lastPlayedTs;
+  const setpace_lpts = localStorage.getItem('setpace_lpts') || noItemsFound_lastPlayedTs;
   
   index = JSON.parse(ka);
-  pace_lastPlayedTs = JSON.parse(lpts);
+  pace_lastPlayedTs = JSON.parse(setpace_lpts);
 }
 
 function save_history() {
   const ka = JSON.stringify(index);
-  const lpts = JSON.stringify(pace_lastPlayedTs);
+  const setpace_lpts = JSON.stringify(pace_lastPlayedTs);
   localStorage.setItem('index', ka);
-  localStorage.setItem('lpts', lpts);
+  localStorage.setItem('lpts', setpace_lpts);
 }
 
 get_history();
