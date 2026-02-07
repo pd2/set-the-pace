@@ -1,5 +1,5 @@
 const staticDev = "set_PACE"
-const service_worker_version = "v1.011"
+const service_worker_version = "v1.1"
 const assets = [
   "/",
   "index.html",
